@@ -1,3 +1,7 @@
+[link to check out this app in action!](http://emoreno619.github.io/walking-man-exercise/)
+
+currently only works in firefox
+
 #Walking Man Exercise
 
 1. Figure out how to manipulate the image's position using Javascript
